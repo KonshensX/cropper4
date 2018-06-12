@@ -1,0 +1,14 @@
+- Create the controller, the entity and the views
+
+- install npm modules
+
+- Install cropper 
+
+- Configure encore to build the assets 
+
+- Include the cropperjs files and continue the js
+
+- Included jQuery just to get going because javascript is being a bitch 
+
+- 
+
